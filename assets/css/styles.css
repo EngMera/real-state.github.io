@@ -169,7 +169,7 @@ button {
     position: fixed;
     bottom: 2rem;
     background-color: var(--container-color);
-    box-shadow: 0 8px 24px hsla(288, 66% , 45% ,.15);
+    box-shadow: 0 8px 24px hsla(228, 66% , 45% ,.15);
     left: 0;
     right: 0;
     width: 90%;
